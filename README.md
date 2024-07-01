@@ -1,6 +1,8 @@
+---
+
 # 💫 About Me:
 
-🌐 Hi, I'm Roman Shahtarov, and I work as a front-end developer.
+🌐 Hi, I'm Roman Shahtarov, and I'm front-end developer.
 
 🔭 I love to travel, read books, and meet new people. Talking about coding and sharing what I know is something I really enjoy.
 
@@ -11,6 +13,8 @@
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/shahtarov)
+
+---
 
 # 💻 Tech Stack:
 

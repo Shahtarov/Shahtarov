@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ About Me:
 
 🌐 Hi, I'm Roman Shahtarov, and I'm front-end developer.
 

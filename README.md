@@ -1,8 +1,8 @@
-# 🙋‍♂️ About Me:
+# 🙋‍♂️ Hi there:
 
-🌐 Hi, I'm Roman Shahtarov, and I'm front-end developer.
+🌐 I'm Roman Shahtarov, and I'm front-end developer.
 
-🔭 I love traveling, reading books, and meeting new people. Additionally, I am actively involved in internet marketing.
+🔭 I love traveling, reading books, and meeting new people. I am also interested in Internet marketing and analytics.
 
 ## 🌐 Сontacts:
 

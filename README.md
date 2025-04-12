@@ -1,8 +1,6 @@
-# 🙋‍♂️ Hi there:
+# About me:
 
-🌐 I'm Roman Shahtarov, and I'm front-end developer.
-
-🔭 I love traveling, reading books, and meeting new people. I am also interested in Internet marketing and analytics.
+Frontend (web) developer. I specialize in marketing products.
 
 ## 🌐 Сontacts:
 
@@ -18,7 +16,7 @@
 
 ## Devolopment tools
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23212121.svg?style=for-the-badge&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-CC0000?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -28,7 +26,7 @@
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-FF69B4?style=for-the-badge&logo=sass&logoColor=white)
 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Design tools
 
@@ -37,3 +35,7 @@
 ## Analytics tools
 
 ![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-F9AB00?style=for-the-badge&logo=google-analytics&logoColor=white) ![YandexMetrica](https://img.shields.io/badge/Yandex%20Metrica-FFD700?style=for-the-badge&logo=yandex&logoColor=black) ![AppMetrica](https://img.shields.io/badge/App%20Metrica-FFD700?style=for-the-badge&logo=yandex&logoColor=black) ![GoogleDataStudio](https://img.shields.io/badge/Google%20Data%20Studio-1A73E8?style=for-the-badge&logo=google-data-studio&logoColor=white)
+
+## Task tools
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
